@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8755],{8755:function(n,t,r){r.r(t),r.d(t,{default:function(){return o}});var e=r(6768);const s={class:"turn-points"};function u(n,t,r,u,a,c){return(0,e.uX)(),(0,e.CE)("div",s,t[0]||(t[0]=[(0,e.Lk)("h1",null,"轉點活動",-1)]))}var a={name:"turnPoints"},c=r(1241);const f=(0,c.A)(a,[["render",u],["__scopeId","data-v-40ef8efa"]]);var o=f}}]);
+//# sourceMappingURL=8755.eb50fb31.js.map

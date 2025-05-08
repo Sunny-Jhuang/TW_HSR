@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1165],{1165:function(e,n,r){r.r(n),r.d(n,{default:function(){return h}});var s=r(6768);const t={class:"hsr-holiday"};function a(e,n,r,a,u,c){return(0,s.uX)(),(0,s.CE)("div",t,n[0]||(n[0]=[(0,s.Lk)("h1",null,"高鐵假期",-1)]))}var u={name:"hsrHoliday"},c=r(1241);const d=(0,c.A)(u,[["render",a],["__scopeId","data-v-045ee4de"]]);var h=d}}]);
+//# sourceMappingURL=1165.8796b0ad.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4164],{4164:function(s,t,n){n.r(t),n.d(t,{default:function(){return o}});var e=n(6768);const u={class:"item-lists-questions"};function r(s,t,n,r,c,i){return(0,e.uX)(),(0,e.CE)("div",u,t[0]||(t[0]=[(0,e.Lk)("h1",null,"品項清單與提問",-1)]))}var c={name:"itemListsQuestions"},i=n(1241);const a=(0,i.A)(c,[["render",r],["__scopeId","data-v-7494d15c"]]);var o=a}}]);
+//# sourceMappingURL=4164.da54aa64.js.map

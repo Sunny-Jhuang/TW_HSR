@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4231],{4231:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var c=t(6768);const a={class:"company-identify"};function r(n,e,t,r,s,u){return(0,c.uX)(),(0,c.CE)("div",a,e[0]||(e[0]=[(0,c.Lk)("h1",null,"企業識別",-1)]))}var s={name:"companyIdentify"},u=t(1241);const d=(0,u.A)(s,[["render",r],["__scopeId","data-v-1eacc938"]]);var f=d}}]);
+//# sourceMappingURL=4231.6565626a.js.map

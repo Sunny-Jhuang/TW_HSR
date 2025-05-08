@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9714],{9714:function(e,n,a){a.r(n),a.d(n,{default:function(){return o}});var r=a(6768);const t={class:"one-day-travel"};function s(e,n,a,s,u,c){return(0,r.uX)(),(0,r.CE)("div",t,n[0]||(n[0]=[(0,r.Lk)("h1",null,"超值1日豐富行",-1)]))}var u={name:"oneDayTravel"},c=a(1241);const l=(0,c.A)(u,[["render",s],["__scopeId","data-v-17f2ae12"]]);var o=l}}]);
+//# sourceMappingURL=9714.43b14032.js.map

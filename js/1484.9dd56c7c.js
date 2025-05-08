@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1484],{1484:function(t,n,r){r.r(n),r.d(n,{default:function(){return f}});var s=r(6768);const a={class:"transport-c-footprints"};function c(t,n,r,c,e,o){return(0,s.uX)(),(0,s.CE)("div",a,n[0]||(n[0]=[(0,s.Lk)("h1",null,"高速鐵路運輸服務碳足跡",-1)]))}var e={name:"transportCFootprints"},o=r(1241);const u=(0,o.A)(e,[["render",c],["__scopeId","data-v-3248fc47"]]);var f=u}}]);
+//# sourceMappingURL=1484.9dd56c7c.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7900],{7900:function(r,c,n){n.r(c),n.d(c,{default:function(){return h}});var s=n(6768);const t={class:"hsr-traffic"};function e(r,c,n,e,a,u){return(0,s.uX)(),(0,s.CE)("div",t,c[0]||(c[0]=[(0,s.Lk)("h1",null,"高鐵+交通",-1)]))}var a={name:"hsrTraffic"},u=n(1241);const f=(0,u.A)(a,[["render",e],["__scopeId","data-v-3c7cc6e6"]]);var h=f}}]);
+//# sourceMappingURL=7900.2c40dbb0.js.map

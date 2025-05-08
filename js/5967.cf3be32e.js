@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5967],{5967:function(n,s,r){r.r(s),r.d(s,{default:function(){return h}});var t=r(6768);const e={class:"hyms-living"};function u(n,s,r,u,a,c){return(0,t.uX)(),(0,t.CE)("div",e,s[0]||(s[0]=[(0,t.Lk)("h1",null,"搭高鐵．住和逸慕軒",-1)]))}var a={name:"hymsLiving"},c=r(1241);const i=(0,c.A)(a,[["render",u],["__scopeId","data-v-0233dac4"]]);var h=i}}]);
+//# sourceMappingURL=5967.cf3be32e.js.map

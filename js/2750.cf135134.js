@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2750],{2750:function(r,n,t){t.r(n),t.d(n,{default:function(){return h}});var a=t(6768);const s={class:"hsr-exploratorium"};function u(r,n,t,u,e,c){return(0,a.uX)(),(0,a.CE)("div",s,n[0]||(n[0]=[(0,a.Lk)("h1",null,"台灣高鐵探索館",-1)]))}var e={name:"hsrExploratorium"},c=t(1241);const o=(0,c.A)(e,[["render",u],["__scopeId","data-v-7596a01a"]]);var h=o}}]);
+//# sourceMappingURL=2750.cf135134.js.map

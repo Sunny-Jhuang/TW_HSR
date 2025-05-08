@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9420],{9420:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var s=n(6768);const a={class:"members-area"};function c(e,r,n,c,t,u){return(0,s.uX)(),(0,s.CE)("div",a,r[0]||(r[0]=[(0,s.Lk)("h1",null,"會員專區",-1)]))}var t={name:"membersArea"},u=n(1241);const d=(0,u.A)(t,[["render",c],["__scopeId","data-v-78c87cc3"]]);var f=d}}]);
+//# sourceMappingURL=9420.9de1102c.js.map

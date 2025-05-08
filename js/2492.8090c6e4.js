@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2492],{2492:function(n,t,u){u.r(t),u.d(t,{default:function(){return o}});var r=u(6768);const a={class:"run-situation"};function e(n,t,u,e,s,c){return(0,r.uX)(),(0,r.CE)("div",a,t[0]||(t[0]=[(0,r.Lk)("h1",null,"列車運行狀況",-1)]))}var s={name:"runSituation"},c=u(1241);const i=(0,c.A)(s,[["render",e],["__scopeId","data-v-9f339a4e"]]);var o=i}}]);
+//# sourceMappingURL=2492.8090c6e4.js.map

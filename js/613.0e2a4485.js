@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[613],{613:function(n,e,r){r.r(e),r.d(e,{default:function(){return d}});var t=r(6768);const o={class:"window-booking"};function s(n,e,r,s,u,c){return(0,t.uX)(),(0,t.CE)("div",o,e[0]||(e[0]=[(0,t.Lk)("h1",null,"車站窗口購票",-1)]))}var u={name:"windowBooking"},c=r(1241);const a=(0,c.A)(u,[["render",s],["__scopeId","data-v-1d40f5ce"]]);var d=a}}]);
+//# sourceMappingURL=613.0e2a4485.js.map

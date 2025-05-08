@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4234],{4234:function(t,n,s){s.r(n),s.d(n,{default:function(){return o}});var c=s(6768);const e={class:"points-discount-tickets"};function u(t,n,s,u,r,a){return(0,c.uX)(),(0,c.CE)("div",e,n[0]||(n[0]=[(0,c.Lk)("h1",null,"會員點數折抵車票",-1)]))}var r={name:"pointsDiscountTickets"},a=s(1241);const i=(0,a.A)(r,[["render",u],["__scopeId","data-v-5da03d67"]]);var o=i}}]);
+//# sourceMappingURL=4234.f2092d1c.js.map

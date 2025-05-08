@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8329],{8329:function(n,r,t){t.r(r),t.d(r,{default:function(){return f}});var a=t(6768);const e={class:"train-sale"};function s(n,r,t,s,u,c){return(0,a.uX)(),(0,a.CE)("div",e,r[0]||(r[0]=[(0,a.Lk)("h1",null,"列車販售",-1)]))}var u={name:"trainSale"},c=t(1241);const l=(0,c.A)(u,[["render",s],["__scopeId","data-v-787677fb"]]);var f=l}}]);
+//# sourceMappingURL=8329.97a13a66.js.map

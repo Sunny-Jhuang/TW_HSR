@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[6912],{6912:function(n,t,a){a.r(t),a.d(t,{default:function(){return i}});var r=a(6768);const e={class:"safety-training"};function s(n,t,a,s,u,c){return(0,r.uX)(),(0,r.CE)("div",e,t[0]||(t[0]=[(0,r.Lk)("h1",null,"廠商安全訓練",-1)]))}var u={name:"safetyTraining"},c=a(1241);const f=(0,c.A)(u,[["render",s],["__scopeId","data-v-f553251a"]]);var i=f}}]);
+//# sourceMappingURL=6912.42cff0c8.js.map

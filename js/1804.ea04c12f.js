@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1804],{1804:function(n,e,s){s.r(e),s.d(e,{default:function(){return o}});var r=s(6768);const t={class:"news-info"};function u(n,e,s,u,a,c){return(0,r.uX)(),(0,r.CE)("div",t,e[0]||(e[0]=[(0,r.Lk)("h1",null,"最新消息",-1)]))}var a={name:"newsInfo"},c=s(1241);const f=(0,c.A)(a,[["render",u],["__scopeId","data-v-a867e036"]]);var o=f}}]);
+//# sourceMappingURL=1804.ea04c12f.js.map

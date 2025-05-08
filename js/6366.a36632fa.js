@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[6366],{6366:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(6768);const s={class:"foreigner-tickets"};function c(e,n,r,c,u,a){return(0,t.uX)(),(0,t.CE)("div",s,n[0]||(n[0]=[(0,t.Lk)("h1",null,"周遊券(外籍旅客)",-1)]))}var u={name:"foreignerTickets"},a=r(1241);const i=(0,a.A)(u,[["render",c],["__scopeId","data-v-dc78ea44"]]);var f=i}}]);
+//# sourceMappingURL=6366.a36632fa.js.map

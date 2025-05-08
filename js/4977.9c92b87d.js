@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4977],{4977:function(n,e,t){t.r(e),t.d(e,{default:function(){return o}});var s=t(6768);const r={class:"memento-things"};function u(n,e,t,u,a,c){return(0,s.uX)(),(0,s.CE)("div",r,e[0]||(e[0]=[(0,s.Lk)("h1",null,"紀念商品",-1)]))}var a={name:"mementoThings"},c=t(1241);const h=(0,c.A)(a,[["render",u],["__scopeId","data-v-284e8635"]]);var o=h}}]);
+//# sourceMappingURL=4977.9c92b87d.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8348],{8348:function(e,n,s){s.r(n),s.d(n,{default:function(){return o}});var c=s(6768);const r={class:"ef-expenses-ws-info"};function t(e,n,s,t,u,a){return(0,c.uX)(),(0,c.CE)("div",r,n[0]||(n[0]=[(0,c.Lk)("h1",null,"環保支出與工安資訊",-1)]))}var u={name:"efExpensesWsInfo"},a=s(1241);const f=(0,a.A)(u,[["render",t],["__scopeId","data-v-37ccce01"]]);var o=f}}]);
+//# sourceMappingURL=8348.d7105e2c.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5662],{5662:function(r,e,s){s.r(e),s.d(e,{default:function(){return d}});var n=s(6768);const u={class:"hsr-purchase"};function t(r,e,s,t,a,c){return(0,n.uX)(),(0,n.CE)("div",u,e[0]||(e[0]=[(0,n.Lk)("h1",null,"高鐵採購網",-1)]))}var a={name:"hsrPurchase"},c=s(1241);const h=(0,c.A)(a,[["render",t],["__scopeId","data-v-961e572e"]]);var d=h}}]);
+//# sourceMappingURL=5662.077302aa.js.map

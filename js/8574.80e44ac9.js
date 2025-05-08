@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8574],{8574:function(n,r,s){s.r(r),s.d(r,{default:function(){return p}});var a=s(6768);const e={class:"happy-hsr"};function t(n,r,s,t,u,c){return(0,a.uX)(),(0,a.CE)("div",e,r[0]||(r[0]=[(0,a.Lk)("h1",null,"幸福高鐵",-1)]))}var u={name:"happyHsr"},c=s(1241);const h=(0,c.A)(u,[["render",t],["__scopeId","data-v-0510e91a"]]);var p=h}}]);
+//# sourceMappingURL=8574.80e44ac9.js.map

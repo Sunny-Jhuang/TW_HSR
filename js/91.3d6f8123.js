@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[91],{91:function(e,t,n){n.r(t),n.d(t,{default:function(){return h}});var s=n(6768);const c={class:"e-discount-tickets-search"};function r(e,t,n,r,u,a){return(0,s.uX)(),(0,s.CE)("div",c,t[0]||(t[0]=[(0,s.Lk)("h1",null,"電子優惠券查詢",-1)]))}var u={name:"eDiscountTicketsSearch"},a=n(1241);const i=(0,a.A)(u,[["render",r],["__scopeId","data-v-2e5f786a"]]);var h=i}}]);
+//# sourceMappingURL=91.3d6f8123.js.map

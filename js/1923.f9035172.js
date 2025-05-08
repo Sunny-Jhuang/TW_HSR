@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1923],{1923:function(n,a,e){e.r(a),e.d(a,{default:function(){return p}});var r=e(6768);const t={class:"app-booking"};function s(n,a,e,s,u,c){return(0,r.uX)(),(0,r.CE)("div",t,a[0]||(a[0]=[(0,r.Lk)("h1",null,"T-EX 行動購票 App",-1)]))}var u={name:"appBooking"},c=e(1241);const o=(0,c.A)(u,[["render",s],["__scopeId","data-v-ea629c42"]]);var p=o}}]);
+//# sourceMappingURL=1923.f9035172.js.map

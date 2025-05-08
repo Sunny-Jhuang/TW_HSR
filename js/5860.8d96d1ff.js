@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5860],{5860:function(r,n,t){t.r(n),t.d(n,{default:function(){return d}});var s=t(6768);const a={class:"hsr-art"};function e(r,n,t,e,u,c){return(0,s.uX)(),(0,s.CE)("div",a,n[0]||(n[0]=[(0,s.Lk)("h1",null,"台灣高鐵藝術計畫",-1)]))}var u={name:"hsrArt"},c=t(1241);const h=(0,c.A)(u,[["render",e],["__scopeId","data-v-405b07aa"]]);var d=h}}]);
+//# sourceMappingURL=5860.8d96d1ff.js.map

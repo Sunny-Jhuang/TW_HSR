@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7115],{7115:function(n,u,r){r.r(u),r.d(u,{default:function(){return h}});var e=r(6768);const t={class:"group-box-lunch"};function c(n,u,r,c,s,a){return(0,e.uX)(),(0,e.CE)("div",t,u[0]||(u[0]=[(0,e.Lk)("h1",null,"團體訂便當",-1)]))}var s={name:"groupBoxLunch"},a=r(1241);const o=(0,a.A)(s,[["render",c],["__scopeId","data-v-f487684e"]]);var h=o}}]);
+//# sourceMappingURL=7115.47b8433e.js.map

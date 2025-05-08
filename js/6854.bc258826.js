@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[6854],{6854:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var t=n(6768);const s={class:"transfer-overview"};function a(e,r,n,a,u,c){return(0,t.uX)(),(0,t.CE)("div",s,r[0]||(r[0]=[(0,t.Lk)("h1",null,"轉乘服務總覽",-1)]))}var u={name:"transferOverview"},c=n(1241);const v=(0,c.A)(u,[["render",a],["__scopeId","data-v-6ae984d2"]]);var f=v}}]);
+//# sourceMappingURL=6854.bc258826.js.map

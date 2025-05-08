@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7630],{7630:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var r=n(6768);const s={class:"tlife-articles"};function a(e,t,n,a,c,u){return(0,r.uX)(),(0,r.CE)("div",s,t[0]||(t[0]=[(0,r.Lk)("h1",null,"TLife文章",-1)]))}var c={name:"tlifeArticles"},u=n(1241);const f=(0,u.A)(c,[["render",a],["__scopeId","data-v-72a5984f"]]);var i=f}}]);
+//# sourceMappingURL=7630.4f071808.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[3102],{3102:function(a,s,e){e.r(s),e.d(s,{default:function(){return d}});var n=e(6768);const r={class:"hazards-policies"};function t(a,s,e,t,c,u){return(0,n.uX)(),(0,n.CE)("div",r,s[0]||(s[0]=[(0,n.Lk)("h1",null,"風險管理政策",-1)]))}var c={name:"hazardsPolicies"},u=e(1241);const i=(0,u.A)(c,[["render",t],["__scopeId","data-v-bae6447a"]]);var d=i}}]);
+//# sourceMappingURL=3102.f17d3a27.js.map

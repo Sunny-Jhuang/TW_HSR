@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[343],{343:function(n,e,s){s.r(e),s.d(e,{default:function(){return h}});var u=s(6768);const a={class:"human-policies"};function c(n,e,s,c,r,t){return(0,u.uX)(),(0,u.CE)("div",a,e[0]||(e[0]=[(0,u.Lk)("h1",null,"人權政策",-1)]))}var r={name:"humanPolicies"},t=s(1241);const i=(0,t.A)(r,[["render",c],["__scopeId","data-v-2346ca48"]]);var h=i}}]);
+//# sourceMappingURL=343.b30b1780.js.map

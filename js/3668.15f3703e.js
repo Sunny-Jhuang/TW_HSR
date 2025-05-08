@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[3668],{3668:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var s=n(6768);const c={class:"tickets-type"};function r(t,e,n,r,u,a){return(0,s.uX)(),(0,s.CE)("div",c,e[0]||(e[0]=[(0,s.Lk)("h1",null,"普通 / 優待 / 團體票種說明",-1)]))}var u={name:"ticketsType"},a=n(1241);const d=(0,a.A)(u,[["render",r],["__scopeId","data-v-c08d7ab2"]]);var i=d}}]);
+//# sourceMappingURL=3668.15f3703e.js.map

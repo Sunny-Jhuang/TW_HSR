@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[6377],{6377:function(a,e,n){n.r(e),n.d(e,{default:function(){return w}});var t=n(6768);const r={class:"tw-realway-1"};function s(a,e,n,s,u,c){return(0,t.uX)(),(0,t.CE)("div",r,e[0]||(e[0]=[(0,t.Lk)("h1",null,"最真實的台灣WAY-1",-1)]))}var u={name:"twRealway1"},c=n(1241);const l=(0,c.A)(u,[["render",s],["__scopeId","data-v-3a48e4d9"]]);var w=l}}]);
+//# sourceMappingURL=6377.ef78e7e7.js.map

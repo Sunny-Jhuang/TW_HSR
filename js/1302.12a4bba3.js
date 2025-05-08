@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1302],{1302:function(n,t,e){e.r(t),e.d(t,{default:function(){return o}});var r=e(6768);const a={class:"taking-notice"};function c(n,t,e,c,s,u){return(0,r.uX)(),(0,r.CE)("div",a,t[0]||(t[0]=[(0,r.Lk)("h1",null,"乘車須知",-1)]))}var s={name:"takingNotice"},u=e(1241);const i=(0,u.A)(s,[["render",c],["__scopeId","data-v-23429e2e"]]);var o=i}}]);
+//# sourceMappingURL=1302.12a4bba3.js.map

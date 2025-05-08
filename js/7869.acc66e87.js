@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7869],{7869:function(r,e,n){n.r(e),n.d(e,{default:function(){return h}});var s=n(6768);const a={class:"shared-cars"};function t(r,e,n,t,c,u){return(0,s.uX)(),(0,s.CE)("div",a,e[0]||(e[0]=[(0,s.Lk)("h1",null,"iRent共享汽車",-1)]))}var c={name:"sharedCars"},u=n(1241);const d=(0,u.A)(c,[["render",t],["__scopeId","data-v-8cd0479e"]]);var h=d}}]);
+//# sourceMappingURL=7869.acc66e87.js.map

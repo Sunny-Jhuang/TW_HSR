@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8793],{8793:function(r,e,s){s.r(e),s.d(e,{default:function(){return o}});var n=s(6768);const t={class:"projects-purchase"};function c(r,e,s,c,u,a){return(0,n.uX)(),(0,n.CE)("div",t,e[0]||(e[0]=[(0,n.Lk)("h1",null,"專案採購",-1)]))}var u={name:"projectsPurchase"},a=s(1241);const h=(0,a.A)(u,[["render",c],["__scopeId","data-v-a0b9f8d2"]]);var o=h}}]);
+//# sourceMappingURL=8793.51b98163.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8814],{8814:function(n,r,t){t.r(r),t.d(r,{default:function(){return h}});var e=t(6768);const u={class:"funny-north"};function a(n,r,t,a,s,c){return(0,e.uX)(),(0,e.CE)("div",u,r[0]||(r[0]=[(0,e.Lk)("h1",null,"趣北部 豐富玩、開心吃!",-1)]))}var s={name:"funnyNorth"},c=t(1241);const f=(0,c.A)(s,[["render",a],["__scopeId","data-v-5eaafb4e"]]);var h=f}}]);
+//# sourceMappingURL=8814.2ddf4b11.js.map

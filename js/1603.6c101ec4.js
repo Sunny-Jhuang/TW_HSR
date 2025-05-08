@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1603],{1603:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var s=r(6768);const t={class:"hsr-experiences"};function c(e,n,r,c,u,a){return(0,s.uX)(),(0,s.CE)("div",t,n[0]||(n[0]=[(0,s.Lk)("h1",null,"高鐵+體驗",-1)]))}var u={name:"hsrExperiences"},a=r(1241);const h=(0,a.A)(u,[["render",c],["__scopeId","data-v-f1b097a8"]]);var f=h}}]);
+//# sourceMappingURL=1603.6c101ec4.js.map

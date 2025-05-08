@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[3684],{3684:function(n,r,e){e.r(r),e.d(r,{default:function(){return l}});var s=e(6768);const t={class:"spring-travel"};function a(n,r,e,a,u,c){return(0,s.uX)(),(0,s.CE)("div",t,r[0]||(r[0]=[(0,s.Lk)("h1",null,"早春小旅行．出發!",-1)]))}var u={name:"springTravel"},c=e(1241);const f=(0,c.A)(u,[["render",a],["__scopeId","data-v-1ff0916e"]]);var l=f}}]);
+//# sourceMappingURL=3684.f8b84e75.js.map

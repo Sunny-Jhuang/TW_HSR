@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7152],{7152:function(a,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=t(6768);const e={class:"about-law"};function r(a,n,t,r,s,c){return(0,u.uX)(),(0,u.CE)("div",e,n[0]||(n[0]=[(0,u.Lk)("h1",null,"相關法規",-1)]))}var s={name:"aboutLaw"},c=t(1241);const o=(0,c.A)(s,[["render",r],["__scopeId","data-v-f40c21ea"]]);var f=o}}]);
+//# sourceMappingURL=7152.e3f00ce3.js.map

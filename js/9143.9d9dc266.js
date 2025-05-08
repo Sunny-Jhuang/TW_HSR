@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9143],{9143:function(a,n,r){r.r(n),r.d(n,{default:function(){return l}});var t=r(6768);const e={class:"railway-safety"};function s(a,n,r,s,u,c){return(0,t.uX)(),(0,t.CE)("div",e,n[0]||(n[0]=[(0,t.Lk)("h1",null,"鐵路安全",-1)]))}var u={name:"railwaySafety"},c=r(1241);const f=(0,c.A)(u,[["render",s],["__scopeId","data-v-322239bf"]]);var l=f}}]);
+//# sourceMappingURL=9143.9d9dc266.js.map

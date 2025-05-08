@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5469],{5469:function(n,t,r){r.r(t),r.d(t,{default:function(){return o}});var s=r(6768);const a={class:"bq-station"};function e(n,t,r,e,u,c){return(0,s.uX)(),(0,s.CE)("div",a,t[0]||(t[0]=[(0,s.Lk)("h1",null,"板橋站",-1)]))}var u={name:"bqStation"},c=r(1241);const f=(0,c.A)(u,[["render",e],["__scopeId","data-v-96ffc564"]]);var o=f}}]);
+//# sourceMappingURL=5469.e5c70ce6.js.map

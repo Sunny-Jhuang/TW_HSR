@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5522],{5522:function(e,r,n){n.r(r),n.d(r,{default:function(){return i}});var s=n(6768);const u={class:"serv-equip-overview"};function t(e,r,n,t,a,v){return(0,s.uX)(),(0,s.CE)("div",u,r[0]||(r[0]=[(0,s.Lk)("h1",null,"服務與設施總覽",-1)]))}var a={name:"servEquipOverview"},v=n(1241);const c=(0,v.A)(a,[["render",t],["__scopeId","data-v-636381ba"]]);var i=c}}]);
+//# sourceMappingURL=5522.eb72a388.js.map

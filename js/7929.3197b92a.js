@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7929],{7929:function(n,r,e){e.r(r),e.d(r,{default:function(){return o}});var s=e(6768);const u={class:"hsr-journey"};function t(n,r,e,t,a,c){return(0,s.uX)(),(0,s.CE)("div",u,r[0]||(r[0]=[(0,s.Lk)("h1",null,"高鐵+遊程",-1)]))}var a={name:"hsrJourney"},c=e(1241);const h=(0,c.A)(a,[["render",t],["__scopeId","data-v-01b65ab6"]]);var o=h}}]);
+//# sourceMappingURL=7929.3197b92a.js.map

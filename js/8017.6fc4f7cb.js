@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8017],{8017:function(n,c,e){e.r(c),e.d(c,{default:function(){return o}});var s=e(6768);const r={class:"info-sec-policies"};function t(n,c,e,t,u,i){return(0,s.uX)(),(0,s.CE)("div",r,c[0]||(c[0]=[(0,s.Lk)("h1",null,"資訊安全政策",-1)]))}var u={name:"infoSecPolicies"},i=e(1241);const a=(0,i.A)(u,[["render",t],["__scopeId","data-v-593cd75c"]]);var o=a}}]);
+//# sourceMappingURL=8017.6fc4f7cb.js.map

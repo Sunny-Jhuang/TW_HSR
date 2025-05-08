@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9425],{9425:function(a,n,r){r.r(n),r.d(n,{default:function(){return i}});var c=r(6768);const e={class:"easycard-taking"};function s(a,n,r,s,t,u){return(0,c.uX)(),(0,c.CE)("div",e,n[0]||(n[0]=[(0,c.Lk)("h1",null,"悠遊聯名卡乘車",-1)]))}var t={name:"easycardTaking"},u=r(1241);const d=(0,u.A)(t,[["render",s],["__scopeId","data-v-135c2abc"]]);var i=d}}]);
+//# sourceMappingURL=9425.06e85215.js.map

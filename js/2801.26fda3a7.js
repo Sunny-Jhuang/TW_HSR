@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2801],{2801:function(a,s,n){n.r(s),n.d(s,{default:function(){return d}});var c=n(6768);const e={class:"slack-days"};function r(a,s,n,r,t,u){return(0,c.uX)(),(0,c.CE)("div",e,s[0]||(s[0]=[(0,c.Lk)("h1",null,"疏運日程表",-1)]))}var t={name:"slackDays"},u=n(1241);const l=(0,u.A)(t,[["render",r],["__scopeId","data-v-e5a046ac"]]);var d=l}}]);
+//# sourceMappingURL=2801.26fda3a7.js.map

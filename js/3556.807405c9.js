@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[3556],{3556:function(n,r,e){e.r(r),e.d(r,{default:function(){return h}});var s=e(6768);const u={class:"hsr-online-buying"};function t(n,r,e,t,c,a){return(0,s.uX)(),(0,s.CE)("div",u,r[0]||(r[0]=[(0,s.Lk)("h1",null,"T-Shopping 高鐵線上購",-1)]))}var c={name:"hsrOnlineBuying"},a=e(1241);const i=(0,a.A)(c,[["render",t],["__scopeId","data-v-40ffdcb3"]]);var h=i}}]);
+//# sourceMappingURL=3556.807405c9.js.map

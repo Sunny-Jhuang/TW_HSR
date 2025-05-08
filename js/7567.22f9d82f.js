@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7567],{7567:function(n,e,c){c.r(e),c.d(e,{default:function(){return i}});var r=c(6768);const t={class:"machine-booking"};function a(n,e,c,a,s,u){return(0,r.uX)(),(0,r.CE)("div",t,e[0]||(e[0]=[(0,r.Lk)("h1",null,"自動售票機購票",-1)]))}var s={name:"machineBooking"},u=c(1241);const o=(0,u.A)(s,[["render",a],["__scopeId","data-v-dd1935c6"]]);var i=o}}]);
+//# sourceMappingURL=7567.22f9d82f.js.map

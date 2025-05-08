@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1295],{1295:function(n,r,e){e.r(r),e.d(r,{default:function(){return o}});var s=e(6768);const u={class:"specify-car-group-discount"};function c(n,r,e,c,t,a){return(0,s.uX)(),(0,s.CE)("div",u,r[0]||(r[0]=[(0,s.Lk)("h1",null,"指定車次團體優惠",-1)]))}var t={name:"specifyCarGroupDiscount"},a=e(1241);const f=(0,a.A)(t,[["render",c],["__scopeId","data-v-e4f9edf0"]]);var o=f}}]);
+//# sourceMappingURL=1295.745221cb.js.map

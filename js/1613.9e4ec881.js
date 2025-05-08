@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1613],{1613:function(n,a,r){r.r(a),r.d(a,{default:function(){return d}});var e=r(6768);const t={class:"allinonecard-taking"};function c(n,a,r,c,s,u){return(0,e.uX)(),(0,e.CE)("div",t,a[0]||(a[0]=[(0,e.Lk)("h1",null,"一卡通聯名卡乘車",-1)]))}var s={name:"allinonecardTaking"},u=r(1241);const l=(0,u.A)(s,[["render",c],["__scopeId","data-v-048288d7"]]);var d=l}}]);
+//# sourceMappingURL=1613.9e4ec881.js.map

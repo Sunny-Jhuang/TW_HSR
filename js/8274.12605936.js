@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8274],{8274:function(n,e,r){r.r(e),r.d(e,{default:function(){return l}});var t=r(6768);const s={class:"yl-living"};function u(n,e,r,u,a,c){return(0,t.uX)(),(0,t.CE)("div",s,e[0]||(e[0]=[(0,t.Lk)("h1",null,"搭高鐵．住雲朗",-1)]))}var a={name:"ylLiving"},c=r(1241);const i=(0,c.A)(a,[["render",u],["__scopeId","data-v-1470ca5e"]]);var l=i}}]);
+//# sourceMappingURL=8274.12605936.js.map

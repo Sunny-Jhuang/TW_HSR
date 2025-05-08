@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9820],{9820:function(n,a,r){r.r(a),r.d(a,{default:function(){return o}});var t=r(6768);const s={class:"publications-on-car"};function u(n,a,r,u,c,e){return(0,t.uX)(),(0,t.CE)("div",s,a[0]||(a[0]=[(0,t.Lk)("h1",null,"TLife 車上刊物",-1)]))}var c={name:"publicationsOnCar"},e=r(1241);const i=(0,e.A)(c,[["render",u],["__scopeId","data-v-6a26363a"]]);var o=i}}]);
+//# sourceMappingURL=9820.d71980d6.js.map

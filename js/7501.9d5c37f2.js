@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7501],{7501:function(a,n,r){r.r(n),r.d(n,{default:function(){return h}});var e=r(6768);const s={class:"trade-taking-search-sys"};function t(a,n,r,t,c,u){return(0,e.uX)(),(0,e.CE)("div",s,n[0]||(n[0]=[(0,e.Lk)("h1",null,"各式票證交易/搭乘紀錄查詢系統",-1)]))}var c={name:"tradeTakingSearchSys"},u=r(1241);const d=(0,u.A)(c,[["render",t],["__scopeId","data-v-2d7d0f9a"]]);var h=d}}]);
+//# sourceMappingURL=7501.9d5c37f2.js.map

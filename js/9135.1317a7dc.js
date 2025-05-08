@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9135],{9135:function(n,e,t){t.r(e),t.d(e,{default:function(){return d}});var r=t(6768);const s={class:"meeting-rooms"};function u(n,e,t,u,a,c){return(0,r.uX)(),(0,r.CE)("div",s,e[0]||(e[0]=[(0,r.Lk)("h1",null,"多功能會議室",-1)]))}var a={name:"meetingRooms"},c=t(1241);const o=(0,c.A)(a,[["render",u],["__scopeId","data-v-18a394dc"]]);var d=o}}]);
+//# sourceMappingURL=9135.1317a7dc.js.map

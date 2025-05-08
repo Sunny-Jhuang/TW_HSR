@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9960],{9960:function(n,r,s){s.r(r),s.d(r,{default:function(){return d}});var t=s(6768);const a={class:"hsr-app"};function e(n,r,s,e,u,c){return(0,t.uX)(),(0,t.CE)("div",a,r[0]||(r[0]=[(0,t.Lk)("h1",null,"台灣高鐵 App",-1)]))}var u={name:"hsrApp"},c=s(1241);const p=(0,c.A)(u,[["render",e],["__scopeId","data-v-4b5fad9d"]]);var d=p}}]);
+//# sourceMappingURL=9960.6f20af4b.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9161],{9161:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var t=r(6768);const s={class:"store-booking"};function o(n,e,r,o,u,c){return(0,t.uX)(),(0,t.CE)("div",s,e[0]||(e[0]=[(0,t.Lk)("h1",null,"便利商店購票",-1)]))}var u={name:"storeBooking"},c=r(1241);const a=(0,c.A)(u,[["render",o],["__scopeId","data-v-290ce5b0"]]);var i=a}}]);
+//# sourceMappingURL=9161.47b18a3a.js.map

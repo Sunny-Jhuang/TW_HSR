@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8213],{8213:function(n,t,e){e.r(t),e.d(t,{default:function(){return d}});var r=e(6768);const s={class:"month-gift"};function u(n,t,e,u,a,c){return(0,r.uX)(),(0,r.CE)("div",s,t[0]||(t[0]=[(0,r.Lk)("h1",null,"月月Go有禮",-1)]))}var a={name:"monthGift"},c=e(1241);const o=(0,c.A)(a,[["render",u],["__scopeId","data-v-5de0d118"]]);var d=o}}]);
+//# sourceMappingURL=8213.2b5a0554.js.map

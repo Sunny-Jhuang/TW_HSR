@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7911],{7911:function(n,r,t){t.r(r),t.d(r,{default:function(){return h}});var s=t(6768);const a={class:"arting-to-hsr"};function e(n,r,t,e,u,c){return(0,s.uX)(),(0,s.CE)("div",a,r[0]||(r[0]=[(0,s.Lk)("h1",null,"「藝」起來高鐵",-1)]))}var u={name:"artingToHsr"},c=t(1241);const o=(0,c.A)(u,[["render",e],["__scopeId","data-v-36529394"]]);var h=o}}]);
+//# sourceMappingURL=7911.72c7e143.js.map

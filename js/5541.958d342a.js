@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5541],{5541:function(e,n,r){r.r(n),r.d(n,{default:function(){return o}});var s=r(6768);const a={class:"slack-period-sale-info"};function c(e,n,r,c,t,u){return(0,s.uX)(),(0,s.CE)("div",a,n[0]||(n[0]=[(0,s.Lk)("h1",null,"疏運期間對號座銷售資訊",-1)]))}var t={name:"slackPeriodSaleInfo"},u=r(1241);const l=(0,u.A)(t,[["render",c],["__scopeId","data-v-e760eb7c"]]);var o=l}}]);
+//# sourceMappingURL=5541.958d342a.js.map

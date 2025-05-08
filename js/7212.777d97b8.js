@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7212],{7212:function(n,e,t){t.r(e),t.d(e,{default:function(){return o}});var u=t(6768);const r={class:"online-buying-notice"};function c(n,e,t,c,s,a){return(0,u.uX)(),(0,u.CE)("div",r,e[0]||(e[0]=[(0,u.Lk)("h1",null,"線上購票交易注意事項",-1)]))}var s={name:"onlineBuyingNotice"},a=t(1241);const i=(0,a.A)(s,[["render",c],["__scopeId","data-v-633af3d6"]]);var o=i}}]);
+//# sourceMappingURL=7212.777d97b8.js.map

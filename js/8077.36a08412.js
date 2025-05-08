@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8077],{8077:function(n,r,t){t.r(r),t.d(r,{default:function(){return l}});var e=t(6768);const a={class:"train-model"};function s(n,r,t,s,u,c){return(0,e.uX)(),(0,e.CE)("div",a,r[0]||(r[0]=[(0,e.Lk)("h1",null,"高鐵700T列車模型",-1)]))}var u={name:"trainModel"},c=t(1241);const d=(0,c.A)(u,[["render",s],["__scopeId","data-v-73151957"]]);var l=d}}]);
+//# sourceMappingURL=8077.36a08412.js.map

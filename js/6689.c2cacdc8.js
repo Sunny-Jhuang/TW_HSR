@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[6689],{6689:function(t,e,n){n.r(e),n.d(e,{default:function(){return d}});var r=n(6768);const s={class:"travel-tickets"};function a(t,e,n,a,c,u){return(0,r.uX)(),(0,r.CE)("div",s,e[0]||(e[0]=[(0,r.Lk)("h1",null,"國旅聯票",-1)]))}var c={name:"travelTickets"},u=n(1241);const l=(0,u.A)(c,[["render",a],["__scopeId","data-v-811117da"]]);var d=l}}]);
+//# sourceMappingURL=6689.c2cacdc8.js.map

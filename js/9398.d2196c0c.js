@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9398],{9398:function(n,e,t){t.r(e),t.d(e,{default:function(){return d}});var s=t(6768);const a={class:"seat-booking"};function r(n,e,t,r,u,c){return(0,s.uX)(),(0,s.CE)("div",a,e[0]||(e[0]=[(0,s.Lk)("h1",null,"對號座訂位開放時程",-1)]))}var u={name:"seatBooking"},c=t(1241);const o=(0,c.A)(u,[["render",r],["__scopeId","data-v-5e35a6cd"]]);var d=o}}]);
+//# sourceMappingURL=9398.d2196c0c.js.map

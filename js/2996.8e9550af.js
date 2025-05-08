@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2996],{2996:function(n,s,e){e.r(s),e.d(s,{default:function(){return l}});var u=e(6768);const a={class:"supply-chain-policies"};function c(n,s,e,c,r,t){return(0,u.uX)(),(0,u.CE)("div",a,s[0]||(s[0]=[(0,u.Lk)("h1",null,"供應鏈管理政策",-1)]))}var r={name:"supplyChainPolicies"},t=e(1241);const i=(0,t.A)(r,[["render",c],["__scopeId","data-v-3a179816"]]);var l=i}}]);
+//# sourceMappingURL=2996.8e9550af.js.map

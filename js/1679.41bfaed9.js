@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1679],{1679:function(e,n,r){r.r(n),r.d(n,{default:function(){return d}});var t=r(6768);const s={class:"free-seat"};function a(e,n,r,a,u,c){return(0,t.uX)(),(0,t.CE)("div",s,n[0]||(n[0]=[(0,t.Lk)("h1",null,"自由座說明",-1)]))}var u={name:"freeSeat"},c=r(1241);const f=(0,c.A)(u,[["render",a],["__scopeId","data-v-dcfee058"]]);var d=f}}]);
+//# sourceMappingURL=1679.41bfaed9.js.map

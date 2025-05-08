@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5224],{5224:function(s,t,n){n.r(t),n.d(t,{default:function(){return f}});var r=n(6768);const e={class:"hsr-tickets"};function c(s,t,n,c,u,a){return(0,r.uX)(),(0,r.CE)("div",e,t[0]||(t[0]=[(0,r.Lk)("h1",null,"高鐵+門票",-1)]))}var u={name:"hsrTickets"},a=n(1241);const h=(0,a.A)(u,[["render",c],["__scopeId","data-v-70f6a7c5"]]);var f=h}}]);
+//# sourceMappingURL=5224.29b9f86a.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5353],{5353:function(r,n,t){t.r(n),t.d(n,{default:function(){return f}});var e=t(6768);const a={class:"car-serv-intro"};function c(r,n,t,c,s,u){return(0,e.uX)(),(0,e.CE)("div",a,n[0]||(n[0]=[(0,e.Lk)("h1",null,"車廂服務介紹",-1)]))}var s={name:"carServIntro"},u=t(1241);const o=(0,u.A)(s,[["render",c],["__scopeId","data-v-4f7c190a"]]);var f=o}}]);
+//# sourceMappingURL=5353.da575b33.js.map

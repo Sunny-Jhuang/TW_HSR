@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2132],{2132:function(n,u,r){r.r(u),r.d(u,{default:function(){return d}});var t=r(6768);const s={class:"group-discount2"};function e(n,u,r,e,c,a){return(0,t.uX)(),(0,t.CE)("div",s,u[0]||(u[0]=[(0,t.Lk)("h1",null,"一般團體優惠",-1)]))}var c={name:"groupDiscount2"},a=r(1241);const o=(0,a.A)(c,[["render",e],["__scopeId","data-v-bd6eb206"]]);var d=o}}]);
+//# sourceMappingURL=2132.8505ad0f.js.map

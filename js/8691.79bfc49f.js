@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8691],{8691:function(r,e,n){n.r(e),n.d(e,{default:function(){return o}});var t=n(6768);const s={class:"preorder-discount"};function u(r,e,n,u,c,a){return(0,t.uX)(),(0,t.CE)("div",s,e[0]||(e[0]=[(0,t.Lk)("h1",null,"29天前預購優惠",-1)]))}var c={name:"preorderDiscount"},a=n(1241);const d=(0,a.A)(c,[["render",u],["__scopeId","data-v-6ed70eb9"]]);var o=d}}]);
+//# sourceMappingURL=8691.79bfc49f.js.map

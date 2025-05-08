@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[992],{992:function(n,t,a){a.r(t),a.d(t,{default:function(){return l}});var r=a(6768);const s={class:"yl-station"};function e(n,t,a,e,u,c){return(0,r.uX)(),(0,r.CE)("div",s,t[0]||(t[0]=[(0,r.Lk)("h1",null,"雲林站",-1)]))}var u={name:"ylStation"},c=a(1241);const f=(0,c.A)(u,[["render",e],["__scopeId","data-v-7acdbff1"]]);var l=f}}]);
+//# sourceMappingURL=992.3efb7c68.js.map

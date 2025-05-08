@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8897],{8897:function(n,t,r){r.r(t),r.d(t,{default:function(){return d}});var s=r(6768);const e={class:"station-crowd-info"};function a(n,t,r,a,c,o){return(0,s.uX)(),(0,s.CE)("div",e,t[0]||(t[0]=[(0,s.Lk)("h1",null,"車站人潮資訊",-1)]))}var c={name:"stationCrowdInfo"},o=r(1241);const u=(0,o.A)(c,[["render",a],["__scopeId","data-v-052e59bc"]]);var d=u}}]);
+//# sourceMappingURL=8897.6e45d032.js.map

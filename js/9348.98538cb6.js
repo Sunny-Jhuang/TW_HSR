@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9348],{9348:function(s,t,e){e.r(t),e.d(t,{default:function(){return f}});var a=e(6768);const n={class:"safety-health-sys"};function r(s,t,e,r,u,c){return(0,a.uX)(),(0,a.CE)("div",n,t[0]||(t[0]=[(0,a.Lk)("h1",null,"承攬商職安衛管理系統",-1)]))}var u={name:"safetyHealthSys"},c=e(1241);const h=(0,c.A)(u,[["render",r],["__scopeId","data-v-0682a430"]]);var f=h}}]);
+//# sourceMappingURL=9348.98538cb6.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5954],{5954:function(n,t,e){e.r(t),e.d(t,{default:function(){return i}});var r=e(6768);const s={class:"zy-station"};function a(n,t,e,a,u,c){return(0,r.uX)(),(0,r.CE)("div",s,t[0]||(t[0]=[(0,r.Lk)("h1",null,"左營站",-1)]))}var u={name:"zyStation"},c=e(1241);const o=(0,c.A)(u,[["render",a],["__scopeId","data-v-54b1461e"]]);var i=o}}]);
+//# sourceMappingURL=5954.7bcbb35f.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9897],{9897:function(n,t,e){e.r(t),e.d(t,{default:function(){return d}});var r=e(6768);const s={class:"points-convert"};function c(n,t,e,c,u,o){return(0,r.uX)(),(0,r.CE)("div",s,t[0]||(t[0]=[(0,r.Lk)("h1",null,"點數365 TGo點數兌換",-1)]))}var u={name:"pointsConvert"},o=e(1241);const a=(0,o.A)(u,[["render",c],["__scopeId","data-v-c1d7e2b4"]]);var d=a}}]);
+//# sourceMappingURL=9897.a6b69d7f.js.map

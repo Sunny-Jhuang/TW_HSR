@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5373],{5373:function(t,s,n){n.r(s),n.d(s,{default:function(){return h}});var r=n(6768);const e={class:"hsr-camp-activities"};function a(t,s,n,a,c,u){return(0,r.uX)(),(0,r.CE)("div",e,s[0]||(s[0]=[(0,r.Lk)("h1",null,"台灣高鐵營隊活動",-1)]))}var c={name:"hsrCampActivities"},u=n(1241);const i=(0,u.A)(c,[["render",a],["__scopeId","data-v-8f61b226"]]);var h=i}}]);
+//# sourceMappingURL=5373.bf688b9c.js.map

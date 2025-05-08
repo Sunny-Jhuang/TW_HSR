@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7044],{7044:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var r=n(6768);const c={class:"tickets-verify"};function s(t,e,n,s,u,a){return(0,r.uX)(),(0,r.CE)("div",c,e[0]||(e[0]=[(0,r.Lk)("h1",null,"驗票閘門及通關",-1)]))}var u={name:"ticketsVerify"},a=n(1241);const f=(0,a.A)(u,[["render",s],["__scopeId","data-v-71dcca3f"]]);var i=f}}]);
+//# sourceMappingURL=7044.c6949415.js.map

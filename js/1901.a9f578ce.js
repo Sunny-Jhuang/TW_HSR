@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1901],{1901:function(n,s,r){r.r(s),r.d(s,{default:function(){return l}});var a=r(6768);const t={class:"hsr-knhl-animals"};function e(n,s,r,e,u,c){return(0,a.uX)(),(0,a.CE)("div",t,s[0]||(s[0]=[(0,a.Lk)("h1",null,"台灣高鐵x卡娜赫拉的小動物",-1)]))}var u={name:"hsrKnhlAnimals"},c=r(1241);const h=(0,c.A)(u,[["render",e],["__scopeId","data-v-854a5816"]]);var l=h}}]);
+//# sourceMappingURL=1901.a9f578ce.js.map

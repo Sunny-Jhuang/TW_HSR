@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[5765],{5765:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var s=e(6768);const c={class:"flying-tickets"};function r(n,t,e,r,u,a){return(0,s.uX)(),(0,s.CE)("div",c,t[0]||(t[0]=[(0,s.Lk)("h1",null,"航空聯票",-1)]))}var u={name:"flyingTickets"},a=e(1241);const i=(0,a.A)(u,[["render",r],["__scopeId","data-v-66ca8760"]]);var f=i}}]);
+//# sourceMappingURL=5765.c605bbaf.js.map

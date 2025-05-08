@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[8588],{8588:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var t=n(6768);const c={class:"time-price-search"};function s(e,r,n,s,a,u){return(0,t.uX)(),(0,t.CE)("div",c,r[0]||(r[0]=[(0,t.Lk)("h1",null,"時刻表與票價查詢",-1)]))}var a={name:"timePriceSearch"},u=n(1241);const i=(0,u.A)(a,[["render",s],["__scopeId","data-v-6f2f7250"]]);var f=i}}]);
+//# sourceMappingURL=8588.a112335c.js.map

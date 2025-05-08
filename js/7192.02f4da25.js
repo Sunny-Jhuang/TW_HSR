@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[7192],{7192:function(u,n,r){r.r(n),r.d(n,{default:function(){return d}});var t=r(6768);const o={class:"outer-school-group-discount"};function c(u,n,r,c,e,s){return(0,t.uX)(),(0,t.CE)("div",o,n[0]||(n[0]=[(0,t.Lk)("h1",null,"校外教學團體優惠",-1)]))}var e={name:"outerSchoolGroupDiscount"},s=r(1241);const a=(0,s.A)(e,[["render",c],["__scopeId","data-v-0edc7b58"]]);var d=a}}]);
+//# sourceMappingURL=7192.02f4da25.js.map

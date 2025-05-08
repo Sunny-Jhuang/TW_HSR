@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[900],{900:function(t,e,n){n.r(e),n.d(e,{default:function(){return f}});var s=n(6768);const r={class:"hotel-gifts"};function u(t,e,n,u,a,c){return(0,s.uX)(),(0,s.CE)("div",r,e[0]||(e[0]=[(0,s.Lk)("h1",null,"飯店有禮．時時有驚喜",-1)]))}var a={name:"hotelGifts"},c=n(1241);const d=(0,c.A)(a,[["render",u],["__scopeId","data-v-498edd43"]]);var f=d}}]);
+//# sourceMappingURL=900.38b43d52.js.map

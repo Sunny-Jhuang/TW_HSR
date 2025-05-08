@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[727],{727:function(n,r,a){a.r(r),a.d(r,{default:function(){return f}});var e=a(6768);const s={class:"specify-bank-card"};function c(n,r,a,c,t,u){return(0,e.uX)(),(0,e.CE)("div",s,r[0]||(r[0]=[(0,e.Lk)("h1",null,"刷指定銀行信用卡 享更多高鐵優惠",-1)]))}var t={name:"specifyBankCard"},u=a(1241);const d=(0,u.A)(t,[["render",c],["__scopeId","data-v-528d8866"]]);var f=d}}]);
+//# sourceMappingURL=727.cd0b8a36.js.map

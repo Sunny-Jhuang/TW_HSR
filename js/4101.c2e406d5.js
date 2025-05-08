@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4101],{4101:function(n,r,t){t.r(r),t.d(r,{default:function(){return h}});var s=t(6768);const e={class:"hsr-intro"};function u(n,r,t,u,a,c){return(0,s.uX)(),(0,s.CE)("div",e,r[0]||(r[0]=[(0,s.Lk)("h1",null,"台灣高鐵簡介",-1)]))}var a={name:"hsrIntro"},c=t(1241);const d=(0,c.A)(a,[["render",u],["__scopeId","data-v-d63ca1de"]]);var h=d}}]);
+//# sourceMappingURL=4101.c2e406d5.js.map

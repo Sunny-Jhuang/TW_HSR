@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[3533],{3533:function(s,n,e){e.r(n),e.d(n,{default:function(){return p}});var u=e(6768);const r={class:"business-apply"};function t(s,n,e,t,a,c){return(0,u.uX)(),(0,u.CE)("div",r,n[0]||(n[0]=[(0,u.Lk)("h1",null,"業務申辦",-1)]))}var a={name:"businessApply"},c=e(1241);const l=(0,c.A)(a,[["render",t],["__scopeId","data-v-5266b114"]]);var p=l}}]);
+//# sourceMappingURL=3533.944428a4.js.map

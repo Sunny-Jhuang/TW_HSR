@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1937],{1937:function(n,r,e){e.r(r),e.d(r,{default:function(){return d}});var u=e(6768);const s={class:"group-booking-serv"};function t(n,r,e,t,o,a){return(0,u.uX)(),(0,u.CE)("div",s,r[0]||(r[0]=[(0,u.Lk)("h1",null,"團體訂位服務",-1)]))}var o={name:"groupBookingServ"},a=e(1241);const c=(0,a.A)(o,[["render",t],["__scopeId","data-v-3db47fac"]]);var d=c}}]);
+//# sourceMappingURL=1937.934f89b4.js.map

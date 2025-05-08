@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[508],{508:function(n,r,t){t.r(r),t.d(r,{default:function(){return f}});var e=t(6768);const a={class:"protection-areas"};function s(n,r,t,s,c,u){return(0,e.uX)(),(0,e.CE)("div",a,r[0]||(r[0]=[(0,e.Lk)("h1",null,"嚴重特殊傳染性肺炎(COVID-19) 防疫專區",-1)]))}var c={name:"protectionAreas"},u=t(1241);const o=(0,u.A)(c,[["render",s],["__scopeId","data-v-37a302f0"]]);var f=o}}]);
+//# sourceMappingURL=508.681915f2.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[9292],{9292:function(n,t,u){u.r(t),u.d(t,{default:function(){return d}});var r=u(6768);const e={class:"funny-tw"};function s(n,t,u,s,a,c){return(0,r.uX)(),(0,r.CE)("div",e,t[0]||(t[0]=[(0,r.Lk)("h1",null,"永續美好 慢遊台灣",-1)]))}var a={name:"funnyTw"},c=u(1241);const f=(0,c.A)(a,[["render",s],["__scopeId","data-v-50619c9a"]]);var d=f}}]);
+//# sourceMappingURL=9292.41c05880.js.map

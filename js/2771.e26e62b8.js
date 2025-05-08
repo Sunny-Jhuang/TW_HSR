@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[2771],{2771:function(n,r,t){t.r(r),t.d(r,{default:function(){return d}});var a=t(6768);const c={class:"car-intro"};function e(n,r,t,e,s,u){return(0,a.uX)(),(0,a.CE)("div",c,r[0]||(r[0]=[(0,a.Lk)("h1",null,"車廂介紹",-1)]))}var s={name:"carIntro"},u=t(1241);const o=(0,u.A)(s,[["render",e],["__scopeId","data-v-0ba6b186"]]);var d=o}}]);
+//# sourceMappingURL=2771.e26e62b8.js.map

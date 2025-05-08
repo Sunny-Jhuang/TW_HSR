@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[4578],{4578:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var s=n(6768);const r={class:"hotel-tickets"};function c(t,e,n,c,u,a){return(0,s.uX)(),(0,s.CE)("div",r,e[0]||(e[0]=[(0,s.Lk)("h1",null,"飯店聯票",-1)]))}var u={name:"hotelTickets"},a=n(1241);const h=(0,a.A)(u,[["render",c],["__scopeId","data-v-674a14f2"]]);var l=h}}]);
+//# sourceMappingURL=4578.b2c9e02b.js.map

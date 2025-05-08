@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1519],{1519:function(s,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(6768);const e={class:"hsr-flights"};function u(s,n,r,u,a,c){return(0,t.uX)(),(0,t.CE)("div",e,n[0]||(n[0]=[(0,t.Lk)("h1",null,"高鐵+機票",-1)]))}var a={name:"hsrFlights"},c=r(1241);const h=(0,c.A)(a,[["render",u],["__scopeId","data-v-2418def5"]]);var f=h}}]);
+//# sourceMappingURL=1519.4258c312.js.map

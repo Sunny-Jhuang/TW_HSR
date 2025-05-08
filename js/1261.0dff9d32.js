@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktw_hsr"]=self["webpackChunktw_hsr"]||[]).push([[1261],{1261:function(n,a,t){t.r(a),t.d(a,{default:function(){return l}});var e=t(6768);const r={class:"wanted-apply"};function s(n,a,t,s,u,c){return(0,e.uX)(),(0,e.CE)("div",r,a[0]||(a[0]=[(0,e.Lk)("h1",null,"我要應徵",-1)]))}var u={name:"wantedApply"},c=t(1241);const d=(0,c.A)(u,[["render",s],["__scopeId","data-v-69a1f7da"]]);var l=d}}]);
+//# sourceMappingURL=1261.0dff9d32.js.map
